@@ -5,142 +5,14 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library">
-      <library name="PHP" type="php">
-        <CLASSES>
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/composer" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/dnoegel/php-xdg-base-dir" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/doctrine/inflector" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/doctrine/instantiator" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/erusev/parsedown" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/fzaninotto/faker" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/hamcrest/hamcrest-php" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/jakub-onderka/php-console-color" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/jakub-onderka/php-console-highlighter" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/laravel/framework" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/laravel/tinker" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/laravelcollective/html" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/league/flysystem" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/mockery/mockery" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/monolog/monolog" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/mtdowling/cron-expression" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/myclabs/deep-copy" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/nesbot/carbon" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/nikic/php-parser" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/paragonie/random_compat" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/phpdocumentor/reflection-common" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/phpdocumentor/reflection-docblock" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/phpdocumentor/type-resolver" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/phpspec/prophecy" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/phpunit/php-code-coverage" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/phpunit/php-file-iterator" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/phpunit/php-text-template" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/phpunit/php-timer" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/phpunit/php-token-stream" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/phpunit/phpunit" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/phpunit/phpunit-mock-objects" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/psr/log" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/psy/psysh" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/ramsey/uuid" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/sebastian/code-unit-reverse-lookup" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/sebastian/comparator" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/sebastian/diff" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/sebastian/environment" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/sebastian/exporter" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/sebastian/global-state" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/sebastian/object-enumerator" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/sebastian/recursion-context" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/sebastian/resource-operations" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/sebastian/version" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/swiftmailer/swiftmailer" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/symfony/console" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/symfony/css-selector" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/symfony/debug" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/symfony/event-dispatcher" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/symfony/finder" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/symfony/http-foundation" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/symfony/http-kernel" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/symfony/polyfill-mbstring" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/symfony/process" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/symfony/routing" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/symfony/translation" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/symfony/var-dumper" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/symfony/yaml" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/tijsverkoyen/css-to-inline-styles" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/vlucas/phpdotenv" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/webmozart/assert" />
-        </CLASSES>
-        <SOURCES>
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/composer" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/dnoegel/php-xdg-base-dir" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/doctrine/inflector" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/doctrine/instantiator" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/erusev/parsedown" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/fzaninotto/faker" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/hamcrest/hamcrest-php" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/jakub-onderka/php-console-color" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/jakub-onderka/php-console-highlighter" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/laravel/framework" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/laravel/tinker" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/laravelcollective/html" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/league/flysystem" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/mockery/mockery" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/monolog/monolog" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/mtdowling/cron-expression" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/myclabs/deep-copy" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/nesbot/carbon" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/nikic/php-parser" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/paragonie/random_compat" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/phpdocumentor/reflection-common" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/phpdocumentor/reflection-docblock" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/phpdocumentor/type-resolver" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/phpspec/prophecy" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/phpunit/php-code-coverage" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/phpunit/php-file-iterator" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/phpunit/php-text-template" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/phpunit/php-timer" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/phpunit/php-token-stream" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/phpunit/phpunit" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/phpunit/phpunit-mock-objects" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/psr/log" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/psy/psysh" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/ramsey/uuid" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/sebastian/code-unit-reverse-lookup" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/sebastian/comparator" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/sebastian/diff" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/sebastian/environment" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/sebastian/exporter" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/sebastian/global-state" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/sebastian/object-enumerator" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/sebastian/recursion-context" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/sebastian/resource-operations" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/sebastian/version" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/swiftmailer/swiftmailer" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/symfony/console" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/symfony/css-selector" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/symfony/debug" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/symfony/event-dispatcher" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/symfony/finder" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/symfony/http-foundation" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/symfony/http-kernel" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/symfony/polyfill-mbstring" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/symfony/process" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/symfony/routing" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/symfony/translation" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/symfony/var-dumper" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/symfony/yaml" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/tijsverkoyen/css-to-inline-styles" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/vlucas/phpdotenv" />
-          <root url="file:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/webmozart/assert" />
-        </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
       <library name="PHARS">
         <CLASSES>
-          <root url="phar:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-1.0.0.phar/" />
+          <root url="phar://$MODULE_DIR$/composer.phar/" />
+          <root url="phar://$MODULE_DIR$/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-1.0.0.phar/" />
         </CLASSES>
         <SOURCES>
-          <root url="phar:///Applications/XAMPP/xamppfiles/htdocs/blog/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-1.0.0.phar/" />
+          <root url="phar://$MODULE_DIR$/composer.phar/" />
+          <root url="phar://$MODULE_DIR$/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-1.0.0.phar/" />
         </SOURCES>
       </library>
     </orderEntry>
